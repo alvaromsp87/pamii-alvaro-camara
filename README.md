@@ -1,2 +1,2 @@
-# pamii-alvaro-camara
-Aula programação moblie II-com prof Joao siles
+# pamii-nikolas-cavalcante
+ Aula sobre criação de componentes e aplicativo StickerSmash
